@@ -2,7 +2,7 @@ const Exemplos = '';
 
 const OlaMundo = 'escreva("Olá, mundo!");';
 
-const OperacoesBasicas = `var a = 10;
+const Operações = `var a = 10;
 var b = 4;
 
 escreva("Valor de A: " + texto(a));
@@ -35,6 +35,40 @@ senão
   escreva("A letra " + letra + " não é uma vogal!"); 
 }`
 
+const Repetição = `var contador = 10; 
+
+enquanto (contador > 0)
+{ 
+  escreva ("Detonação em: " + texto(contador)); 
+  contador = contador - 1; 
+} 
+
+escreva ("Booom!");`
+
+const Função = `função mensagem(texto){
+  var linha = "-------------------------------";
+  		
+  escreva(linha);
+  
+  escreva(texto);
+  
+  escreva(linha);
+}	
+
+função calcular(a, b){
+   var resultado = a * a + b * b;
+   
+   retorna resultado;
+}
+
+mensagem("Mensagem de texto");
+
+escreva("Resultado do primeiro cálculo:");
+escreva(calcular(3, 5));
+
+escreva("Resultado do segundo cálculo:");
+escreva(calcular(2, 9));`
+
 const Classe = `classe Animal {
   correr() {
       escreva("Correndo Loucamente");
@@ -52,7 +86,9 @@ nomeDoCachorro.latir();`
 const demos = {
   Exemplos,
   OlaMundo,
-  OperacoesBasicas,
+  Operações,
   Condicional,
+  Repetição,
+  Função,
   Classe
 }
