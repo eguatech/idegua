@@ -38,6 +38,6 @@
 
 ## Contruibuições
 
-* Para contribuições, por favor, leia o nosso [Guia de Contribuição](.github/CONTRIBUTING.md) antes de submeter um Pull Request.
+* Para contribuições, por favor, leia o nosso [Guia de Contribuição](https://github.com/eguatech/egua/blob/master/.github/CONTRIBUTING.md) antes de submeter um Pull Request.
 
 - <strong> A linguagem Égua é um projeto open-source que se faz possível com o empenho da nossa apaixonada equipe de desenvolvedores, talentoso colaboradores e apoiadores. Obrigado a todos!!<strong>
