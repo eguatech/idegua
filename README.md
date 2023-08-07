@@ -30,11 +30,11 @@
 
 ## Instalação
 
-- Apenas visite a [IDEgua](https://egua.tech/idegua/) e comece a programar.
+- Apenas visite a [IDEgua](https://egua.dev/idegua/) e comece a programar.
 
 ## Documentação
 
-- Para acessar nossa documentação, visite o [site de documentação](https://egua.tech/docs).
+- Para acessar nossa documentação, visite o [site de documentação](https://egua.dev/docs).
 
 ## Contruibuições
 
