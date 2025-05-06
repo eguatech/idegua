@@ -8,15 +8,15 @@
     IDE Online da Linguagem Égua
     <br />
     <br />
-    <img src="https://img.shields.io/github/issues/eguatech/idegua" />
-    <img src="https://img.shields.io/github/stars/eguatech/idegua" />
-    <img src="https://img.shields.io/github/forks/eguatech/idegua" />
-    <img src="https://img.shields.io/github/license/eguatech/idegua" />
+    <img src="https://img.shields.io/github/issues/eguadev/idegua" />
+    <img src="https://img.shields.io/github/stars/eguadev/idegua" />
+    <img src="https://img.shields.io/github/forks/eguadev/idegua" />
+    <img src="https://img.shields.io/github/license/eguadev/idegua" />
     <br />
-    <a href="https://twitter.com/eguatech"target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=Twitter" href="https://twitter.com/eguatech">
-    <a href="https://www.instagram.com/eguatech/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white">
+    <a href="https://twitter.com/eguadev"target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=Twitter" href="https://twitter.com/eguadev">
+    <a href="https://www.instagram.com/eguadev/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white">
     <a href="https://www.youtube.com/channel/UCDgGUdR_6hZ6lfVaQbkQPLw"target="_blank"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white">
-    <a href="https://www.linkedin.com/company/eguatech/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"> </a>
+    <a href="https://www.linkedin.com/company/eguadev/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"> </a>
   </p>
 </p>
 
@@ -38,6 +38,6 @@
 
 ## Contruibuições
 
-* Para contribuições, por favor, leia o nosso [Guia de Contribuição](https://github.com/eguatech/egua/blob/master/.github/CONTRIBUTING.md) antes de submeter um Pull Request.
+* Para contribuições, por favor, leia o nosso [Guia de Contribuição](https://github.com/eguadev/egua/blob/master/.github/CONTRIBUTING.md) antes de submeter um Pull Request.
 
 - <strong> A linguagem Égua é um projeto open-source que se faz possível com o empenho da nossa apaixonada equipe de desenvolvedores, talentoso colaboradores e apoiadores. Obrigado a todos!!<strong>
